@@ -1,0 +1,9 @@
+.banner{
+    background-image: url(../../Imgs/showcase.jpg);
+    background-position:center right;
+    min-height:300px;
+    text-align: center;
+}
+.banner h1{
+    line-height: 1.6em;
+}

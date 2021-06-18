@@ -1,0 +1,13 @@
+
+@media(max-width:600px){
+	.description main{
+		width:100%;
+		float:none;
+	}
+
+	.description aside{
+		width:100%;
+		float:none;
+        margin-top: 40px;
+	}
+}

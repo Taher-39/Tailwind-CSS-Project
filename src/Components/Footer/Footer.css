@@ -1,0 +1,12 @@
+.footer{
+    background: black;
+	color:#fff;
+	padding:20px;
+	margin-top: 300px;
+}
+
+@media(max-width:600px){
+	.footer{
+		margin-top: 30px
+	}
+}
